@@ -1,0 +1,25 @@
+{
+  "name": "react-bootstrap-typescript",
+  "version": "3.0.0",
+  "description": "Typescript definitions for React/Bootstrap ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christhomas/react-bootstrap-typescript.git"
+  },
+  "keywords": [
+    "React",
+    "Bootstrap",
+    "Typescript"
+  ],
+  "author": "Christopher Thomas, Walker Burgin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christhomas/react-bootstrap-typescript/issues"
+  },
+  "homepage": "https://github.com/christhomas/react-bootstrap-typescript#readme",
+  "typings": "./react-bootstrap-typescript.d.ts"
+}
