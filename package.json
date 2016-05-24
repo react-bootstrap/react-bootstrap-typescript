@@ -1,25 +1,80 @@
 {
-  "name": "react-bootstrap-typescript",
-  "version": "0.0.1",
+  "_args": [
+    [
+      "react-bootstrap-typescript",
+      "/Users/chris/Projects/crm.local"
+    ]
+  ],
+  "_from": "react-bootstrap-typescript@latest",
+  "_id": "react-bootstrap-typescript@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-bootstrap-typescript",
+  "_nodeVersion": "5.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-bootstrap-typescript-0.0.1.tgz_1464100699662_0.43948957324028015"
+  },
+  "_npmUser": {
+    "email": "chris.thomas@antimatter-studios.com",
+    "name": "christhomas"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-bootstrap-typescript",
+    "raw": "react-bootstrap-typescript",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "08e3854f712ca3c36602fa57f089bef275945258",
+  "_shrinkwrap": null,
+  "_spec": "react-bootstrap-typescript",
+  "_where": "/Users/chris/Projects/crm.local",
+  "author": {
+    "name": "Christopher Thomas, Walker Burgin"
+  },
+  "bugs": {
+    "url": "https://github.com/christhomas/react-bootstrap-typescript/issues"
+  },
+  "dependencies": {},
   "description": "Typescript definitions for React/Bootstrap ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "08e3854f712ca3c36602fa57f089bef275945258",
+    "tarball": "https://registry.npmjs.org/react-bootstrap-typescript/-/react-bootstrap-typescript-0.0.1.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/christhomas/react-bootstrap-typescript.git"
-  },
+  "gitHead": "23f770085c3abd077064a2ba58843b8d911dde9e",
+  "homepage": "https://github.com/christhomas/react-bootstrap-typescript#readme",
   "keywords": [
     "React",
     "Bootstrap",
     "Typescript"
   ],
-  "author": "Christopher Thomas, Walker Burgin",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/christhomas/react-bootstrap-typescript/issues"
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "chris.thomas@antimatter-studios.com",
+      "name": "christhomas"
+    }
+  ],
+  "name": "react-bootstrap-typescript",
+  "optionalDependencies": {},
+  "readme": "./README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christhomas/react-bootstrap-typescript.git"
   },
-  "homepage": "https://github.com/christhomas/react-bootstrap-typescript#readme",
-  "typings": "./index.d.ts"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "./index.d.ts",
+  "version": "0.0.2"
 }
