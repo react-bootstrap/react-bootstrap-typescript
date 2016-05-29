@@ -7,6 +7,7 @@ export interface DropdownButtonProps extends React.Props<DropdownButtonClass> {
   bsStyle?: string;
   bsSize?: string;
   buttonClassName?: string;
+  componentClass?: React.Component;
   className?: string;
   dropup?: boolean;
   href?: string;
