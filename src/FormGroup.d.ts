@@ -5,7 +5,7 @@ import React = require("react");
 // ----------------------------------------
 export interface FormGroupProps extends React.Props<FormGroupClass> {
   controlId: string;
-  validationState: string;
+  validationState?: string;
 }
 export interface FormGroup extends React.ReactElement<FormGroupProps> {}
 export interface FormGroupClass extends React.ComponentClass<FormGroupProps> {}
