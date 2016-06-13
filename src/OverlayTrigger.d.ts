@@ -23,7 +23,7 @@ export interface OverlayTriggerProps extends React.Props<OverlayTriggerClass> {
   onExiting?: Function;
   placement?: string;
   rootClose?: boolean;
-  trigger?: string;
+  trigger?: string | string[];
 }
 export interface OverlayTrigger extends React.ReactElement<OverlayTriggerProps> { }
 export interface OverlayTriggerClass extends  React.ComponentClass<OverlayTriggerProps> { }
