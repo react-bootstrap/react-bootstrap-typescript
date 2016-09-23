@@ -4,6 +4,7 @@ import React = require("react");
 // <Modal.Title/>
 // ----------------------------------------
 export interface ModalTitleProps extends React.Props<ModalTitleClass> {
+  id?: string;
   className?: string;
   modalClassName?: string;
 }
