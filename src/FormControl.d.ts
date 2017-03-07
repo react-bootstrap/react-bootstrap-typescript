@@ -12,6 +12,7 @@ export interface FormControlProps extends React.Props<FormControlClass> {
   placeholder?: string;
   onChange?: Function;
   onKeyPress?: Function;
+  inputRef?: Function;
 }
 export interface FormControl extends React.ReactElement<FormControlProps> {}
 export interface FormControlClass extends React.ComponentClass<FormControlProps> {
