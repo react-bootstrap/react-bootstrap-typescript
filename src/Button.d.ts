@@ -8,6 +8,7 @@ export interface ButtonProps extends React.Props<ButtonClass>{
     active?: boolean;
     disabled?: boolean;
     block?: boolean;
+    bsClass?: string;
     bsStyle?: string;
     bsSize?: string;
     className?: string;
