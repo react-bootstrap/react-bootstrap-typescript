@@ -5,7 +5,7 @@ import React = require("react");
 // ----------------------------------------
 export interface CarouselItemProps extends React.Props<CarouselItemClass> {
   active?: boolean;
-  animtateIn?: boolean;
+  animateIn?: boolean;
   animateOut?: boolean;
   caption?: any; // TODO: Add more specific type
   className?: string;
